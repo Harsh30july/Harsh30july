@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 🚀
 
 ## About Me
-Hey there! I'm [Your Name], a passionate software engineer with a love for all things tech. I enjoy building cool projects, exploring new technologies, and sharing my knowledge with the community.
+Hey there! I'm Harsh Vardhan Singh Thakur, a passionate Engineer with a love for all things tech. I enjoy building cool projects, exploring new technologies, and sharing my knowledge with the community.
 
 ## Projects
 Here are some of the projects I'm currently working on or have contributed to:
@@ -13,10 +13,6 @@ Here are some of the projects I'm currently working on or have contributed to:
 2. **Project Name**: Brief description of the project.
    - Technologies used: List of technologies.
    - Link to project: [Project Link](https://github.com/yourusername/project)
-
-## Skills
-- Programming Languages: List of languages.
-- Technologies & Tools: List of tools and technologies.
 
 ## Remedies
 In case you encounter any issues with my projects or have suggestions for improvement, here are some remedies you can try:
