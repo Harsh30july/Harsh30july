@@ -6,13 +6,13 @@ Hey there! I'm Harsh Vardhan Singh Thakur, a passionate Engineer with a love for
 ## Projects
 Here are some of the projects I'm currently working on or have contributed to:
 
-1. **Project Name**: Brief description of the project.
-   - Technologies used: List of technologies.
-   - Link to project: [Project Link](https://github.com/yourusername/project)
 
-2. **Project Name**: Brief description of the project.
-   - Technologies used: List of technologies.
-   - Link to project: [Project Link](https://github.com/yourusername/project)
+#1"BrainyQuotes.in is a curated collection of inspirational and thought-provoking quotes designed to ignite your mind and uplift your spirit. Explore a treasure trove of wisdom from renowned thinkers, writers, and visionaries that will motivate and inspire you on your journey.
+
+#2 E-Commerce Database Management System!
+
+"Welcome to the E-Commerce Database Management System! This project offers a robust solution for efficiently storing and managing crucial data for a fictional e-commerce platform. From product details to customer information, orders, and inventory tracking, this system ensures seamless operations an
+
 
 ## Remedies
 In case you encounter any issues with my projects or have suggestions for improvement, here are some remedies you can try:
