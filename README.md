@@ -35,7 +35,6 @@ Thank you for stopping by and checking out my GitHub profile. Don't forget to st
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Harsh30july&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Harsh30july&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh30july&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Harsh30july&icon=8&color=5)](https://visitcount.itsvg.in)
